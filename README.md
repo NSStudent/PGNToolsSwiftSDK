@@ -284,4 +284,8 @@ A test checks a sample of the index against the source files.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+The code is released under the MIT License. The opening data
+(`Data/chess-openings` and the bundled `Sources/PGNTools/Resources/openings.tsv`
+built from it) keeps its original licence: public domain / CC0 1.0, as
+described in [Opening data and licences](#opening-data-and-licences). See
+[LICENSE](LICENSE).

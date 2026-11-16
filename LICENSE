@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------------------------------------------------------------------
+
+Third-party data
+
+The opening data in Data/chess-openings/ and the index built from it,
+Sources/PGNTools/Resources/openings.tsv, are not covered by the MIT License
+above. They come from lichess-org/chess-openings
+(https://github.com/lichess-org/chess-openings). As a collection of facts the
+data set is in the public domain; insofar as its curation qualifies for
+copyright, it is released under the CC0 1.0 Universal Public Domain
+Dedication (https://creativecommons.org/publicdomain/zero/1.0/).
